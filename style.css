@@ -1,0 +1,64 @@
+
+body{
+    background: url(./d.jfif) ;
+}
+#curri{
+    background-color: white;
+    color: black;
+    margin: 0%;
+    
+}
+h1{
+    color: rgb(226, 43, 128);
+    text-align: center;
+    font-size: 70px;
+    padding: 10px;
+    border: 1px solid mediumvioletred ;
+    background-color: white;
+    width: 800px;
+    margin: 20 auto;
+}
+#sub{
+    color: black;
+}
+
+h2{
+    color: rgb(226, 43, 128);
+}
+img{
+    border-radius: 50%;
+    margin:auto;
+    display:block;
+}
+#dados{
+    text-align: center;
+    background: white ;
+    border: 2px solid mediumvioletred ;
+    margin: 20 auto;
+    width: 800px;
+    height: 210px;
+}
+#form{
+    text-align: center;
+    background: white ;
+    border: 2px solid mediumvioletred ;
+    margin: 20 auto;
+    width: 800px;
+    height: 210px;
+}
+#exp{
+    text-align: center;
+    background: white ;
+    border: 2px solid mediumvioletred ;
+    margin: 20 auto;
+    width: 800px;
+    height: 210px;
+}
+#hab{
+    text-align: center;
+    background: white ;
+    border: 2px solid mediumvioletred ;
+    margin: 20 auto;
+    width: 800px;
+    height: 210px;
+}
